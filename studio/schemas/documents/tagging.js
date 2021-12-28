@@ -1,10 +1,10 @@
-import { MdTurnedIn } from "react-icons/md";
+import { MdLocalOffer } from "react-icons/md";
 
 export default {
-  name: "category",
+  name: "tagging",
   type: "document",
-  title: "Category",
-  icon: MdTurnedIn,
+  title: "Tags",
+  icon: MdLocalOffer,
   fields: [
     {
       name: "title",
